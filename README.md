@@ -1,3 +1,5 @@
+![logo](https://github.com/SinghLokesh02/SinghLokesh02/blob/main/github.gif)
+
 <h1 align="center">Hi 👋, I'm Lokesh Singh</h1>
 <h3 align="center">A passionate frontend developer and Coder/programmer from India</h3>
 
