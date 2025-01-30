@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at ([Portfolio](https://my-portfolio-website-seven-kappa.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://my-portfolio-website-seven-kappa.vercel.app/)
 
 - 💬 Ask me about **Data Structures and Algo,C++,C,Python,Js,HTML,CSS**
 
 - 📫 How to reach me **lokeshsingh7695@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/SinghLokesh02/Portfolio_website/blob/main/Resume.pdf](https://github.com/SinghLokesh02/Portfolio_website/blob/main/Resume.pdf)
+- 📄 Know about my experiences [click here](https://my-portfolio-website-seven-kappa.vercel.app/)
 
 - ⚡ Fun fact **I think I am little funny.**
 
